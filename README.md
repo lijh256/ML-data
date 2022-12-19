@@ -29,5 +29,5 @@ dict1 = {'steak':0,
         'tacos':28,
         'clam_chowder':29,
         'foie_gras':30,
-        'ice_cream':31,
+        'ice_cream':31
         }
